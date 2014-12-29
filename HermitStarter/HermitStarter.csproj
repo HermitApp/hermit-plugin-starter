@@ -65,7 +65,7 @@
     <Compile Include="HermitStarterView.xaml.cs">
       <DependentUpon>HermitStarterView.xaml</DependentUpon>
     </Compile>
-    <Compile Include="HermitStartViewModel.cs" />
+    <Compile Include="HermitStarterViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
