@@ -15,6 +15,7 @@ namespace HermitStarter
     [Export(typeof(Shell))]
     public class HermitStarterViewModel : Shell
     {
+        [ImportingConstructor]
         public HermitStarterViewModel()
         {
             this.DisplayName = "Hermit Starter Project";
